@@ -6,3 +6,5 @@ You can run this program through VS code and opening the .HTML file in your brow
 
 Hopes for improvement
 Continue to build it out into an actual pacman game with controls and fruits to eat
+
+License through MIT
